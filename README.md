@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="J.Jacques Forier — Analyste Financier" width="100%">
+  <img src="banner.png" alt="J.Jacques F. — Analyste Financier" width="100%">
 </p>
 
 <p align="center">
